@@ -6,7 +6,8 @@ Frontend:
 - iOS/Android - Expo (React Native)
 - TabletView - Swift/SwiftUI
 - Admin - Next.js
-Backend: Nest.js
-Database: MongoDB (Firebase)
-Authentication: Clerk
-Hosting: Vercel
+Backend: Nest.js </br>
+Database: MongoDB (Firebase)</br>
+Authentication: Clerk</br>
+Hosting: Vercel</br>
+Image Shrinker: https://imageshrinker.tommymcclure.app/
